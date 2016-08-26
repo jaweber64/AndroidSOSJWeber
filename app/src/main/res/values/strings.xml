@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="name">Janet Weber</string>
+    <string name="txtAge">52 years old</string>
+    <string name="txtGender">Female</string>
+    <string name="txtAllergy1">Penicillin</string>
+    <string name="txtAllergyTitle">myAllergies</string>
+    <string name="txtMedsTitle">myMedications</string>
+    <string name="txtMed2">Cholesterol Med</string>
+    <string name="txtMed1">Blood Pressure Med</string>
+    <string name="txtInsTitle">myInsurance</string>
+    <string name="txtInsName">Blue Cross Blue Shield PPO</string>
+</resources>
